@@ -32,3 +32,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Fibonacci (programação dinâmica)** — [`algoritmos/fibonacci.py`](algoritmos/fibonacci.py)
 - **Problema da mochila 0/1** — [`algoritmos/mochila.py`](algoritmos/mochila.py)
 - **Maior subsequência comum (LCS)** — [`algoritmos/lcs.py`](algoritmos/lcs.py)
+- **Distância de edição (Levenshtein)** — [`algoritmos/distancia_edicao.py`](algoritmos/distancia_edicao.py)

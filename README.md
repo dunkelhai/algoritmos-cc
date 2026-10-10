@@ -23,3 +23,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Fila (queue)** — [`algoritmos/fila.py`](algoritmos/fila.py)
 - **Lista encadeada** — [`algoritmos/lista_encadeada.py`](algoritmos/lista_encadeada.py)
 - **Árvore binária de busca** — [`algoritmos/arvore_binaria_busca.py`](algoritmos/arvore_binaria_busca.py)
+- **Busca em largura (BFS)** — [`algoritmos/bfs.py`](algoritmos/bfs.py)

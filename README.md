@@ -19,3 +19,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Quick sort** — [`algoritmos/quick_sort.py`](algoritmos/quick_sort.py)
 - **Heap sort** — [`algoritmos/heap_sort.py`](algoritmos/heap_sort.py)
 - **Counting sort** — [`algoritmos/counting_sort.py`](algoritmos/counting_sort.py)
+- **Pilha (stack)** — [`algoritmos/pilha.py`](algoritmos/pilha.py)

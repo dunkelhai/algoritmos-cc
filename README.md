@@ -16,3 +16,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Insertion sort** — [`algoritmos/insertion_sort.py`](algoritmos/insertion_sort.py)
 - **Selection sort** — [`algoritmos/selection_sort.py`](algoritmos/selection_sort.py)
 - **Merge sort** — [`algoritmos/merge_sort.py`](algoritmos/merge_sort.py)
+- **Quick sort** — [`algoritmos/quick_sort.py`](algoritmos/quick_sort.py)

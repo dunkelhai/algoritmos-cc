@@ -30,3 +30,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Union-Find (conjuntos disjuntos)** — [`algoritmos/union_find.py`](algoritmos/union_find.py)
 - **Árvore geradora mínima (Kruskal)** — [`algoritmos/kruskal.py`](algoritmos/kruskal.py)
 - **Fibonacci (programação dinâmica)** — [`algoritmos/fibonacci.py`](algoritmos/fibonacci.py)
+- **Problema da mochila 0/1** — [`algoritmos/mochila.py`](algoritmos/mochila.py)

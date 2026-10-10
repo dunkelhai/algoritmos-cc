@@ -15,3 +15,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Bubble sort** — [`algoritmos/bubble_sort.py`](algoritmos/bubble_sort.py)
 - **Insertion sort** — [`algoritmos/insertion_sort.py`](algoritmos/insertion_sort.py)
 - **Selection sort** — [`algoritmos/selection_sort.py`](algoritmos/selection_sort.py)
+- **Merge sort** — [`algoritmos/merge_sort.py`](algoritmos/merge_sort.py)

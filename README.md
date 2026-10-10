@@ -34,3 +34,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Maior subsequência comum (LCS)** — [`algoritmos/lcs.py`](algoritmos/lcs.py)
 - **Distância de edição (Levenshtein)** — [`algoritmos/distancia_edicao.py`](algoritmos/distancia_edicao.py)
 - **Crivo de Eratóstenes** — [`algoritmos/crivo_eratostenes.py`](algoritmos/crivo_eratostenes.py)
+- **MDC, MMC e Euclides estendido** — [`algoritmos/mdc.py`](algoritmos/mdc.py)

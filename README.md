@@ -12,3 +12,4 @@ python3 -m unittest discover -s tests -v
 
 Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Busca binária** — [`algoritmos/busca_binaria.py`](algoritmos/busca_binaria.py)
+- **Bubble sort** — [`algoritmos/bubble_sort.py`](algoritmos/bubble_sort.py)

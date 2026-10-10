@@ -27,3 +27,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Busca em profundidade (DFS)** — [`algoritmos/dfs.py`](algoritmos/dfs.py)
 - **Dijkstra** — [`algoritmos/dijkstra.py`](algoritmos/dijkstra.py)
 - **Ordenação topológica** — [`algoritmos/ordenacao_topologica.py`](algoritmos/ordenacao_topologica.py)
+- **Union-Find (conjuntos disjuntos)** — [`algoritmos/union_find.py`](algoritmos/union_find.py)

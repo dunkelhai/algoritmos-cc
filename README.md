@@ -21,3 +21,4 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Counting sort** — [`algoritmos/counting_sort.py`](algoritmos/counting_sort.py)
 - **Pilha (stack)** — [`algoritmos/pilha.py`](algoritmos/pilha.py)
 - **Fila (queue)** — [`algoritmos/fila.py`](algoritmos/fila.py)
+- **Lista encadeada** — [`algoritmos/lista_encadeada.py`](algoritmos/lista_encadeada.py)

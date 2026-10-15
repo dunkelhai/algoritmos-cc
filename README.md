@@ -12,6 +12,7 @@ python3 -m unittest discover -s tests -v
 
 Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Busca binária** — [`algoritmos/busca_binaria.py`](algoritmos/busca_binaria.py)
+- **Limites binários e contagem de ocorrências** — [`algoritmos/limites_binarios.py`](algoritmos/limites_binarios.py)
 - **Bubble sort** — [`algoritmos/bubble_sort.py`](algoritmos/bubble_sort.py)
 - **Insertion sort** — [`algoritmos/insertion_sort.py`](algoritmos/insertion_sort.py)
 - **Selection sort** — [`algoritmos/selection_sort.py`](algoritmos/selection_sort.py)
@@ -26,6 +27,7 @@ Cada módulo fica em `algoritmos/` e tem o teste correspondente em `tests/`.
 - **Busca em largura (BFS)** — [`algoritmos/bfs.py`](algoritmos/bfs.py)
 - **Busca em profundidade (DFS)** — [`algoritmos/dfs.py`](algoritmos/dfs.py)
 - **Dijkstra** — [`algoritmos/dijkstra.py`](algoritmos/dijkstra.py)
+- **Bellman–Ford (pesos negativos)** — [`algoritmos/bellman_ford.py`](algoritmos/bellman_ford.py)
 - **Ordenação topológica** — [`algoritmos/ordenacao_topologica.py`](algoritmos/ordenacao_topologica.py)
 - **Union-Find (conjuntos disjuntos)** — [`algoritmos/union_find.py`](algoritmos/union_find.py)
 - **Árvore geradora mínima (Kruskal)** — [`algoritmos/kruskal.py`](algoritmos/kruskal.py)
